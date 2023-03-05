@@ -134,3 +134,5 @@ Release x.y.z
 - Update dependencies
 - Update database schema version
 ```
+
+Add 500 sats to mint nft
